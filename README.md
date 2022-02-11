@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Pedro 👋
 
 - 🔭 Atualmente estou no ensino médio
-- 🌱 Estou estudando HTML, CSS, JavaScript e me aventurando no desenvolvimento Mobile 
+- 🌱 Estou estudando HTML, CSS, JavaScript e Python 
 - 😄 Pronouns: Ele/dele 
 
 <div align="center">
