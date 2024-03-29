@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Pedro 👋
 
-- 🔭 Atualmente estou no ensino médio
-- 🌱 Estou estudando HTML, CSS, JavaScript e Python 
-- 😄 Pronouns: Ele/dele 
+- 🔭 Curso Engenharia de Software
+- 🌱 Trabalho com Tecnologia e Inovação
+- 😄 Programo front-end
 
 <div align="center">
   <a href="https://github.com/PedroBryk">
