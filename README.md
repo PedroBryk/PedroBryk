@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Pedro 👋
 
 - 🔭 Curso Engenharia de Software
-- 🌱 Trabalho com Tecnologia e Inovação
+- 🌱 Trabalho com suporte a sistemas hospitalares
 - 😄 Programo front-end
 
 <div align="center">
